@@ -9,5 +9,5 @@ if game.PlaceId == 6872265039 then
 loadstring(game:HttpGet(("https://hastepaste.com/raw/KnWoj"), true))() -- Bedwars on this line
 end
 if game.PlaceId == 4282985734 then
-loadstring(game:HttpGet(("https://hastepaste.com/raw/8GfGzCZzos"), true))() -- Combat warriors on this line
+loadstring(game:HttpGet(("https://hastepaste.com/view/48SV"), true))() -- Combat warriors on this line
 end
